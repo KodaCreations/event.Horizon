@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "event.Horizon", "event.Horizon\event.Horizon.csproj", "{014A3AF0-F324-4E52-806F-107B71F564E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{014A3AF0-F324-4E52-806F-107B71F564E3}.Debug|x86.ActiveCfg = Debug|x86
+		{014A3AF0-F324-4E52-806F-107B71F564E3}.Debug|x86.Build.0 = Debug|x86
+		{014A3AF0-F324-4E52-806F-107B71F564E3}.Release|x86.ActiveCfg = Release|x86
+		{014A3AF0-F324-4E52-806F-107B71F564E3}.Release|x86.Build.0 = Release|x86
+		{E6B9E017-4219-4482-979A-BF9766815A3E}.Debug|x86.ActiveCfg = Debug|x86
+		{E6B9E017-4219-4482-979A-BF9766815A3E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
